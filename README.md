@@ -15,4 +15,4 @@
 |1|같은 숫자는 싫어|[링크](https://github.com/threegenie/Programmers_Algorithm/blob/master/%EA%B0%99%EC%9D%80_%EC%88%AB%EC%9E%90%EB%8A%94_%EC%8B%AB%EC%96%B4.ipynb)|[링크](https://programmers.co.kr/learn/courses/30/lessons/12906)|2021.05.13|
 |1|2016년|[링크](https://github.com/threegenie/Programmers_Algorithm/blob/master/2016%EB%85%84.ipynb)|[링크](https://programmers.co.kr/learn/courses/30/lessons/12901)|2021.05.13|
 |1|두 정수 사이의 합|[링크](https://github.com/threegenie/Programmers_Algorithm/blob/master/%EB%91%90_%EC%A0%95%EC%88%98_%EC%82%AC%EC%9D%B4%EC%9D%98_%ED%95%A9.ipynb)|[링크](https://programmers.co.kr/learn/courses/30/lessons/12912)|2021.05.13|
-
+|1|수포자 모의고사(다시 풀었당!)|[링크](https://github.com/threegenie/Programmers_Algorithm/blob/master/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.py)|[링크](https://programmers.co.kr/learn/courses/30/lessons/42840)|2021.05.13|
