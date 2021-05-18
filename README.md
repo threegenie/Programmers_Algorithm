@@ -18,7 +18,6 @@
 |1|수포자 모의고사(다시 풀었당!)|[링크](https://github.com/threegenie/Programmers_Algorithm/blob/master/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.py)|[링크](https://programmers.co.kr/learn/courses/30/lessons/42840)|2021.05.13|
 |1|짝수와 홀수|[링크](https://github.com/threegenie/Programmers_Algorithm/blob/master/%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98.py)|[링크](https://programmers.co.kr/learn/courses/30/lessons/12937)|2021.05.18|
 |1|x만큼 간격이 있는 n개의 숫자|[링크](https://github.com/threegenie/Programmers_Algorithm/blob/master/x%EB%A7%8C%ED%81%BC%20%EA%B0%84%EA%B2%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20n%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90.py)|[링크](https://programmers.co.kr/learn/courses/30/lessons/12954)|2021.05.18|
-|1|핸드폰 번호 가리기
-|[링크](https://github.com/threegenie/Programmers_Algorithm/blob/master/%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0.py)|[링크](https://programmers.co.kr/learn/courses/30/lessons/12948)|2021.05.18|
+|1|핸드폰 번호 가리기|[링크](https://github.com/threegenie/Programmers_Algorithm/blob/master/%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0.py)|[링크](https://programmers.co.kr/learn/courses/30/lessons/12948)|2021.05.18|
 |1|최대공약수와 최소공배수|[링크](https://github.com/threegenie/Programmers_Algorithm/blob/master/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.py)|[링크](https://programmers.co.kr/learn/courses/30/lessons/12940)|2021.05.18|
 |1|하샤드 수|[링크](https://github.com/threegenie/Programmers_Algorithm/blob/master/%ED%95%98%EC%83%A4%EB%93%9C%20%EC%88%98.py)|[링크](https://programmers.co.kr/learn/courses/30/lessons/12947)|2021.05.18|
